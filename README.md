@@ -36,13 +36,10 @@ exec:~/.config/newsboat/nationaltheatret.sh Teater "~Nationaltheatret"
 exec:~/.config/newsboat/detnorsketeatret.sh Teater "~Det Norske Teatret"
 ```
 
-```bash
-$XDG_DATA_HOME/newsboat/
-```
-
 ## Videre arbeid
 
 - Lag et filter for Oslonye
 - Skriv skript Christianiateater
 - Skriv skript Folketeateret
+- Reduser antall kjørekrav
 
